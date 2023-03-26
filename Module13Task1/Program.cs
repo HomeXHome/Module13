@@ -6,8 +6,8 @@ namespace Module13Task1
 {
     class Program
     {
-        public static LinkedList<string> LinkedStrings = new LinkedList<string>();
         public static List<string> ListStrings = new List<string>();
+        public static LinkedList<string> LinkedStrings = new LinkedList<string>();
 
         private static void Main(string[] args)
         {
